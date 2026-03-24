@@ -93,6 +93,7 @@ cd product-sales-analysis
 
 # Install dependencies
 pip install -r requirements.txt
+pip install pandas streamlit plotly matplotlib
 
 # Run the app
 streamlit run dashboard.py
